@@ -24,3 +24,21 @@ const nomnom = (name, food) => {
 
 console.log(nomnom('jasmine', bearSticks));
 
+// function numberAdder that takes in a number and 
+//return the number plus 3. 
+
+
+
+const numberAdder = (x) => {
+    const finalNumber = (x + 3);
+    printToDom(`<h2>finalNumber</h2>`, 'allTheNumbers')
+}
+
+const printToDom = (stringToPrint, divId) => {
+    const selectedDiv = document.getElementById(divId);
+    selectedDiv.innerHTML += stringToPrint;
+}
+
+numberAdder(4);
+
+printToDom('I am ready for lunch', 'feelings')
