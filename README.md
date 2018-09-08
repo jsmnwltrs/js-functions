@@ -1,6 +1,6 @@
 # Javascript Functions
 
-This project is an exploration of javascript functions. I built an animal nuggetixer. I also printed some numbers to the DOM.
+This project is an exploration of javascript functions. I built an animal nuggetizer. I also printed some numbers to the DOM.
 
 
 ## Screenshots
