@@ -5,6 +5,8 @@ This project is an exploration of javascript functions. I built an animal nugget
 
 ## Screenshots
 
+![main screenshot](./screenshots/js-fuctions-main.PNG)
+
 ## How to run this project
 * Use npm to install http-server in your terminal:
 ```sh
